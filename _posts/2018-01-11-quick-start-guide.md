@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Example Announcment"
-author: sal
-categories: [ Jekyll, tutorial ]
+author: Sebastien
+categories: [ announcment ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
