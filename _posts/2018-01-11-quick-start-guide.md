@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Example Announcment"
-author: Sebastien
+author: seb
 categories: [ announcment ]
 image: assets/images/12.jpg
 featured: true
